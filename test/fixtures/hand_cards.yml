@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  card_one: 1
+  card_two: 1
+  card_three: 1
+  card_four: 1
+  card_five: 1
+
+two:
+  card_one: 1
+  card_two: 1
+  card_three: 1
+  card_four: 1
+  card_five: 1
